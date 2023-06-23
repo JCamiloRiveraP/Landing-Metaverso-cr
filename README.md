@@ -1,4 +1,4 @@
-<h1> <strong> Proyecto de Landing Page de Metaverso </strong>strong><h1> 👾
+<h1> <strong> Proyecto de Landing Page de Metaverso </strong><h1> 👾
   
 Este proyecto es una Landing Page diseñada para promocionar y presentar un metaverso utilizando React JS y Framer Motion. El objetivo principal de la página es brindar información y generar interés en los usuarios sobre las experiencias y posibilidades que ofrece este metaverso.
 
